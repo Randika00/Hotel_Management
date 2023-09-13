@@ -56,7 +56,7 @@
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
     <br>
-    <hr class             = "line2">
+    <hr class             = "line2"> 
     
     </body>
 </html>
