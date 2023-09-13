@@ -9,4 +9,13 @@ reject the customer's booking request. Customers may also see and book other hot
 to control hotel activities on the go. The application was programmed with the JavaScript, PHP, and Blade programming languages, with Visual Studio Code as the
 development IDE and a Firebase database for the storage of data.
 
+Hotel management system functions:- 
 
+     * Reservation Calendar
+     * Housekeeping Management
+     * Payment Processing
+     * Online Booking Engine
+     * Guest Management
+     * Control Dashboard 
+
+     ![Hotel-Managemnet](https://github.com/Randika00/Hotel_Management/assets/89309192/401fe7e9-1e92-4967-9a3c-6313ee114d22)
