@@ -5,5 +5,5 @@ guest check-in/checkout, room assignment, controlling room prices, and billing.T
 customer service and assure client happiness.The hotel management project includes room booking, personnel management, and other hotel management functions.
 The technology allows the management to list available rooms in the system. Customers may see and reserve rooms online. Admin has the authority to approve or
 reject the customer's booking request. Customers may also see and book other hotel services. As a result, the system may be used by both consumers and management 
-to control hotel activities on the go.
+to control hotel activities on the go. 
 
